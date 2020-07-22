@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example MVVM Android</string>
+    <string name="posts_error">Não foi possível carregar os posts. Por favor, tente novamente mais tarde.</string>
+</resources>
